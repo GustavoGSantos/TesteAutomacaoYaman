@@ -2,3 +2,4 @@ DesafioWeb/Gemfile.lock
 *.html
 DesafioWeb/debug.log
 DesafioAPI/Gemfile.lock
+DesafioWeb/report/screenshot/test_passou/*.png
