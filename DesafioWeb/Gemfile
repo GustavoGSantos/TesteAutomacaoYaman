@@ -1,0 +1,8 @@
+#Arquivo para instalar a gems necessárias para rodar os testes
+source 'http://rubygems.org'
+
+gem 'capybara'
+gem 'cucumber'
+gem 'selenium-webdriver'
+gem 'site_prism'
+gem 'rspec'
